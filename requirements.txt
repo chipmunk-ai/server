@@ -1,0 +1,10 @@
+flask
+google
+google.genai
+google.auth
+flask-socketio
+eventlet
+pandas
+pybaseball
+datetime
+flask_cors
